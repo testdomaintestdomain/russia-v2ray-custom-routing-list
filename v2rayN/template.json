@@ -1,0 +1,9 @@
+{
+  "version": "Logisticsv1",
+  "routingItems": [
+    {
+      "remarks": "Logistic",
+      "url": "https://raw.githubusercontent.com/testdomaintestdomain/logistic-v2ray-custom-routing-list/refs/heads/main/v2rayN/all.json"
+    }
+  ]
+}
