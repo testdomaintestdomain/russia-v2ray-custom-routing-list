@@ -1,7 +1,0 @@
-{
-  "useSystemHosts": false,
-  "normalDNS": "https://cdn.jsdelivr.net/gh/runetfreedom/russia-v2ray-custom-routing-list@main/v2rayN/dns_v2ray_normal",
-  "tunDNS": null,
-  "domainStrategy4Freedom": null,
-  "domainDNSAddress": "77.88.8.8"
-}
