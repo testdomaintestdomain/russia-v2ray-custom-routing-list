@@ -1,4 +1,14 @@
 [
+   {
+    "outboundTag":"proxy",
+    "domain":[
+      "dat.com",
+      "2ip.io",
+      "2ip.ru"
+    ],
+    "enabled":true,
+    "remarks":"domain proxy"
+  },
   {
     "outboundTag":"direct",
     "ip":[
@@ -7,12 +17,4 @@
     "enabled":true,
     "remarks":"bypass"
   },
-  {
-    "outboundTag":"proxy",
-    "domain":[
-      "dat.com"
-    ],
-    "enabled":true,
-    "remarks":"domain proxy"
-  }
 ]
