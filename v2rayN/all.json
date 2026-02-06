@@ -4,7 +4,7 @@
     "domain":[
       "dat.com",
       "2ip.io",
-      "2ip.ru"
+      "2ip.ru",
     ],
     "enabled":true,
     "remarks":"domain proxy"
